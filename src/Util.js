@@ -4,7 +4,7 @@ let greetingCount = 0;
 let invalidInputCount = 0;
 
 export const analyze = (text) => {
-    if (text.includes('hi') || text.includes('hai') || text.includes('hello')) {
+    if (text.toLocaleLowerCase().includes('hi') || text.toLocaleLowerCase().includes('hai') || text.toLocaleLowerCase().includes('hello')) {
         greetingCount++;
         if (greetingCount >= 3) {
             return ( <div>
