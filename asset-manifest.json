@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/Chat-bot/static/css/main.62059ad0.css",
-    "main.js": "/Chat-bot/static/js/main.3681c593.js",
+    "main.css": "/Chat-bot/static/css/main.bcd8e0ba.css",
+    "main.js": "/Chat-bot/static/js/main.581cb6a9.js",
     "static/js/453.bc9f0c02.chunk.js": "/Chat-bot/static/js/453.bc9f0c02.chunk.js",
     "static/media/angry.gif": "/Chat-bot/static/media/angry.6d99c0a815c39b363177.gif",
     "static/media/icon2.png": "/Chat-bot/static/media/icon2.0204dc6cb0acc80ed4e5.png",
     "index.html": "/Chat-bot/index.html",
     "static/media/chat-left-dots.svg": "/Chat-bot/static/media/chat-left-dots.fd717fb8aebe6bd881b8ee7b1967c1eb.svg",
     "static/media/person.svg": "/Chat-bot/static/media/person.54f02d9547b45d77da7039ab6392013b.svg",
-    "main.62059ad0.css.map": "/Chat-bot/static/css/main.62059ad0.css.map",
-    "main.3681c593.js.map": "/Chat-bot/static/js/main.3681c593.js.map",
+    "main.bcd8e0ba.css.map": "/Chat-bot/static/css/main.bcd8e0ba.css.map",
+    "main.581cb6a9.js.map": "/Chat-bot/static/js/main.581cb6a9.js.map",
     "453.bc9f0c02.chunk.js.map": "/Chat-bot/static/js/453.bc9f0c02.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.62059ad0.css",
-    "static/js/main.3681c593.js"
+    "static/css/main.bcd8e0ba.css",
+    "static/js/main.581cb6a9.js"
   ]
 }
